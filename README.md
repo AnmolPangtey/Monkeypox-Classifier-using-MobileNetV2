@@ -36,10 +36,6 @@ The project uses **MobileNetV2** for transfer learning. The model is fine-tuned 
 - **Precision, Recall, F1-Score**: Evaluated to ensure robust model performance.
 
 ## References
-- [Monkeypox Skin Lesion Dataset on Kaggle](https://www.kaggle.com)
+- [Monkeypox Skin Lesion Dataset on Kaggle](https://www.kaggle.com/datasets/nafin59/monkeypox-skin-lesion-dataset)
 - [MobileNetV2 Paper](https://arxiv.org/abs/1801.04381)
 - [WisdomML: Monkeypox Detection Using Computer Vision](https://wisdomml.in/monkeypox-detection-using-computer-vision-in-python/)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
