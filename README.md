@@ -1,4 +1,4 @@
-# Monkeypox Detection Using Computer Vision in Python
+# Monkeypox Detection Using MobileNetV2
 
 This project implements a computer vision-based approach to detect Monkeypox skin lesions using transfer learning with the MobileNetV2 model. The dataset includes images of Monkeypox, Chickenpox, and Measles lesions. The goal is to classify images into two categories: 'Monkeypox' and 'Others.'
 
